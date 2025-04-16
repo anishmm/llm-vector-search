@@ -30,7 +30,7 @@ class AgentState(TypedDict):
     final_answer: str
 
 # Define FAISS index folder
-FAISS_INDEX_PATH = "./agents/2-test/data/index.faiss"  #"faiss_index"
+FAISS_INDEX_PATH = "./data/index.faiss"  #"faiss_index"
 
 
 # SEO and Marketing keywords
